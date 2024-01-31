@@ -1,7 +1,7 @@
 ## Available Scripts
 
 In the project directory, you can run:
-
+### 1.`npm i`
 ### `npm start`
 
 Runs the app in the development mode.\
