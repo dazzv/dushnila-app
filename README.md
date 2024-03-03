@@ -1,3 +1,7 @@
+## DushnilaApp
+
+![DushnilaApp](https://raw.githubusercontent.com//dazzv/dushnila-app/main/dushnilaApp.PNG) 
+
 ## Запуск
 
 В папке проекта запустите след. команды:
